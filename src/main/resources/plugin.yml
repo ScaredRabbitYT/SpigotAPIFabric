@@ -1,0 +1,4 @@
+name: test
+version: '${version}'
+main: net.scaredrabbit.test.Test
+api-version: '1.19'
